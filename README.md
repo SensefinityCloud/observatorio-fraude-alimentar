@@ -109,6 +109,7 @@ A *fraude alimentar* refere-se a práticas enganosas na produção, processament
 ## 🛠 **Ferramentas Tecnológicas**
 
 - FoodSteps
+- **[Sensefinity Agricultural Blockchain](https://www.sensefinity.com/prr)** – Rastreabilidade na Agricultura via blockchain.
 - **[IBM Food Trust](https://www.ibm.com/docs/en/food-trust?topic=overview)** – Rastreabilidade via blockchain.
 - **[TruTag Technologies](https://www.trutags.com/)** – Marcação invisível de alimentos para autenticação.
 
