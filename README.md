@@ -56,6 +56,7 @@ A *fraude alimentar* refere-se a práticas enganosas na produção, processament
 
 ## 📰 **Notícias**
 
+- **Quase metade do mel do mercado europeu é falsificado**, alerta associação. [Ler mais](https://www.publico.pt/2024/10/17/azul/noticia/quase-metade-mel-mercado-europeu-falsificado-alerta-associacao-2108300) 
 - **Carne de cavalo rotulada como carne de vaca** em supermercados europeus. [Ler mais](https://www.theguardian.com/uk/2013/may/10/horsemeat-scandal-fear-culprits-justice)
 - **Azeite falsificado vendido como extra virgem** em supermercados. [Ler mais](https://elpais.com/sociedad/2023-06-30/golpe-al-fraude-del-aceite-de-oliva-143000-litros-se-vendian-como-virgen-extra-y-eran-mezclas-con-otras-grasas.html)
 
@@ -109,6 +110,7 @@ A *fraude alimentar* refere-se a práticas enganosas na produção, processament
 ## 🛠 **Ferramentas Tecnológicas**
 
 - FoodSteps
+- **[Sensefinity Agricultural Blockchain](https://www.sensefinity.com/prr)** – Rastreabilidade na Agricultura via blockchain.
 - **[IBM Food Trust](https://www.ibm.com/docs/en/food-trust?topic=overview)** – Rastreabilidade via blockchain.
 - **[TruTag Technologies](https://www.trutags.com/)** – Marcação invisível de alimentos para autenticação.
 
