@@ -59,7 +59,7 @@ A *fraude alimentar* refere-se a práticas enganosas na produção, processament
 - **Quase metade do mel do mercado europeu é falsificado**, alerta associação. [Ler mais](https://www.publico.pt/2024/10/17/azul/noticia/quase-metade-mel-mercado-europeu-falsificado-alerta-associacao-2108300) 
 - **Carne de cavalo rotulada como carne de vaca** em supermercados europeus. [Ler mais](https://www.theguardian.com/uk/2013/may/10/horsemeat-scandal-fear-culprits-justice)
 - **Azeite falsificado vendido como extra virgem** em supermercados. [Ler mais](https://elpais.com/sociedad/2023-06-30/golpe-al-fraude-del-aceite-de-oliva-143000-litros-se-vendian-como-virgen-extra-y-eran-mezclas-con-otras-grasas.html)
-
+- **Bacalhau russo entra na Noruega** [Ler mais](https://www.tempo.pt/noticias/actualidade/bacalhau-russo-entra-na-noruega-isento-de-direitos-aduaneiros-industriais-do-bacalhau-pedem-fiscalizacao-da-ue.html)
 ---
 
 ## 📄 **Relatórios**
@@ -78,6 +78,7 @@ A *fraude alimentar* refere-se a práticas enganosas na produção, processament
 - [RASFF – Sistema de Alerta Rápido para Alimentos e Rações (UE)](https://webgate.ec.europa.eu/rasff-window/screen/)
 - [Food Fraud Database – Decernis](https://decernis.com/solutions/food-fraud-database/)
 - [Relatórios de Fraude da Interpol](https://www.interpol.int/Crimes/Illicit-goods/Food-crime)
+
 
 ---
 
